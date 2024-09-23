@@ -7,7 +7,7 @@ udostępnia ogrom danych, z wielu obszarów na przykład z dziedzin: Energetyka,
 Technologia, Zdrowie etc. Dane udostępniane są głównie przez instytucje publiczne, lecz zdarzają się
 zestawy danych udosępnione przez firmy prywatne.
 
-### Cel
+### Na czym polega sprawozdanie
 ![target](https://github.com/user-attachments/assets/ca25cd6f-7c9a-47ee-afbd-85bd30d1998d)
 
 Celem tej pracy było przygotowanie zbioru danych pod Uczenie Maszynowe.
